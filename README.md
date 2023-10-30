@@ -25,10 +25,10 @@ Education (CBE) model called the *Competency Assessment and Monitoring (C-A&M+)*
 5. **Civil Electrical Engineering, and Civil Electronic Engineering (School of Electrical Engineering):**
   * [Automatic Control (id. EIE315)](https://github.com/rheradio/CAM/blob/main/courses/EIE315%20Automatic%20Control.pdf)
   * [Circuit Theory 1 (id. EIE280)](https://github.com/rheradio/CAM/blob/main/courses/EIE280%20Circuit%20Theory%201.pdf)
-  * [Electromagnetism (id. EIE267)](https://github.com/rheradio/CAM/blob/main/courses/EIE267%20Electromagnetism.pdf)
-  * [Electronic Circuits 1 (id. EIE347)](https://github.com/rheradio/CAM/blob/main/courses/EIE347%20Electronic%20Circuits%201.pdf)
   * [Computer Networks (id. EIE303)](https://github.com/rheradio/CAM/blob/main/courses/EIE303%20Computer%20Networks.pdf)
   * [Control Laboratory (id. EIE341)](https://github.com/rheradio/CAM/blob/main/courses/EIE341%20Control%20Laboratory.pdf)
+  * [Electromagnetism (id. EIE267)](https://github.com/rheradio/CAM/blob/main/courses/EIE267%20Electromagnetism.pdf)
+  * [Electronic Circuits 1 (id. EIE347)](https://github.com/rheradio/CAM/blob/main/courses/EIE347%20Electronic%20Circuits%201.pdf)
   * [Programming 2 (id. EIE434)](https://github.com/rheradio/CAM/blob/main/courses/EIE434%20Programming%202.pdf)
 6. **Pedagogy in Basic Education (School of Pedagogy):**
   * [Digital Technologies for Learning and Professional Teacher Development (id. EPE1132)](https://github.com/rheradio/CAM/blob/main/courses/EPE1132%20Digital%20Technologies%20for%20Learning%20and%20Professional%20Teacher%20Development.pdf)
