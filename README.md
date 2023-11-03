@@ -12,7 +12,7 @@ Our paper presents a Competency-Based
 Education (CBE) model called the *Competency Assessment and Monitoring (C-A&M+)* framework. This repository includes the following 15 courses taught in 8 university degrees at Pontificia Universidad Catolica de Valparaiso (PUCV), where C-A&M+ is used:
 
 1. **All engineering degrees:**
-  * [Integral Development and Communication for Engineering (FIN100)](https://github.com/rheradio/CAM/blob/main/courses/FIN100%20Integral%20Development%20and%20Communication%20for%20Engineering.pdf)
+  * [Integral Development and Communication for Engineering (id. FIN100)](https://github.com/rheradio/CAM/blob/main/courses/FIN100%20Integral%20Development%20and%20Communication%20for%20Engineering.pdf)
 2. **Civil Biochemical Engineering (School of Biochemical Engineering):**
   * [Food Processing Laboratory (id. ICB590)](https://github.com/rheradio/CAM/blob/main/courses/ICB590%20Food%20Processing%20Laboratory.pdf)
 3. **Civil Chemical Engineering, Civil Metallurgical Engineering, and Civil Mining Engineering (School of Chemical Engineering):**
